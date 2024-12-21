@@ -1,4 +1,4 @@
-![RPC Banner](./images/generate a random pass.png)
+![PassBanner](./images/generate a random pass.png)
 
 # GENERADOR CONTRASEÑAS
 -> Simple generador de contraseñas
