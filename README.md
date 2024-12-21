@@ -1,4 +1,4 @@
-[PassBanner](./images/ss.png)
+![PassBanner](./images/ss.png)
 
 # GENERADOR CONTRASEÑAS
 -> Simple generador de contraseñas
